@@ -1,0 +1,110 @@
+Kuzey aksanı.	'Bugün'de vurgu ikinci hecededir.	aksan-vurgu
+Bu güzel hayvanların hayatta kalması için harekete geçme zamanı geldi.	Çatışmada 5 asker öldürüldü.	hareket-çatışma
+Bu senin ev adresin mi?	Politika düşük gelirli insanların ihtiyaçlarını karşılamada başarısız oluyor.	adres-karşılama
+Yanardağın külleri geniş bir alana düştü.	Dişbudak ağaçları burada bulunmaktadır.	kül-dişbudak
+Şiddetli sırt ağrısı nedeniyle yatıyordu.	Adam sıranın en arkasına gitmeyi reddediyordu.	sırt-arka
+Turistler adadaki doğanın hassas dengesini sıklıkla bozuyor.	Banka bakiyemi kontrol etmem gerekiyor.	denge-bakiye
+Topu ağlara gönderdi.	Onunla baloda tanıştı.	top-balo
+Ay sonunda bankada fazla param kalmıyor.	Nehir kıyısı boyunca dolaştık.	banka-kıyı
+Bölge restoran ve barlarla doludur.	Bir kalıp çikolata alacağım.	bar-kalıp
+Yaz aylarında kabuğu soyulur.	Köpek yüksek sesle havladı.	kabuk-havlamak
+Müzik setini her zaman bas sesi açık şekilde çalıyor.	Taze levrek harika bir lezzettir.	bas-levrek
+Bana beyzbol sopasını ver.	Yarasalar gökyüzünde uçuyordu.	sopa-yarasa
+Körfezin karşısında muhteşem bir manzara vardı.	Bu bir defne ağacıydı.	körfez-defne
+Değişikliklerin çoğunun sorumluluğunu üstlendi.	Küçük bir ayı yavrusu önümüzde yolun karşısına koştu.	üstlenmek-ayı
+Toplanan kalabalığa reverans yaptı.	Bir yay ve okla silahlanmıştı.	reverans-yay
+Kızımın dişlerine tel takması gerekiyor.	Kendilerini uzun bir hukuk mücadelesine hazırlıyorlar.	tel-hazırlamak
+O çok sanatsal, pasta harika görünüyor.	Kendisi çok parlak bir genç bilim insanıdır.	harika-parlak
+Kahire Mısır'ın başkentidir.	Proje için sermayenin nasıl artırılacağı konusunda çeşitli fikirleri vardı.	başkent-sermaye
+Sanırım oydu ama emin olamıyorum.	Orada bulunanlardan bazıları konuyu daha fazla tartışmak istemedi.	emin-bazı
+Piyangoyu kazanmasıyla hayatı tamamen değişti.	Para-üstünüzü almayı unutmayın!	değişmek-paraüstü
+Kurşun göğsüne isabet etti.	Ecza kutusu orada.	göğüs-kutu
+Plajın bu kadar yakın olduğunu bilmiyordum.	Kapıyı sertçe kapattı.	yakın-kapatmak
+Yerel bir kano kulübüne katıldım.	Golf sopası vardı.	kulüp-sopa
+Tüm çalışanların yazılı bir iş sözleşmesi vardır.	Cam soğudukça büzülür.	sözleşme-büzülmek
+Rumenlerle Fransızca konuştu.	Yeni yollar inşa etmek trafiği artırır ve bunun tersi de aynı derecede doğrudur, Yolların sayısını ve boyutunu azaltmak, daha az trafik anlamına gelir.	konuşmak-tersi
+Bugünün tarihini sayfanın en üstüne yazın.	Hurma yiyorum.	tarih-hurma
+Varsayılan elli satırdır.	Şirket kredide temerrüde düşmüş durumda.	varsayılan-temerrüt
+Sıcaklıkların 2 derecenin altına düşmesi bekleniyor.	Biyokimya alanında lisans eğitimine devam ediyor.	derece-eğitim
+Somali çoğunlukla çöldür.	Kocası tarafından terk-edilmişti.	çöl-terkedilmek
+Öğrenciler indirimli bilet alabilirler.	Daha fazla grev olasılığını gözardı-edemeyiz.	indirim-gözardıetmek
+Makarnayı süzüp durulayın.	Giderin açılması için tesisatçı çağırmak zorunda kaldık.	süzmek-gider
+Üst çekmecededir.	Uzman bir çizimci ve ressamdır.	çekmece-çizimci
+Her öğleden sonra ördekleri beslemek için parka gidiyorlardı.	Bizi görmesinler diye duvarın arkasına eğildik.	ördek-eğilmek
+Hem akla hem göze hitap-eden bir film.	İspanyol tahtının varisi ile evlenmek üzere nişanlıydı.	hitapetmek-nişanlı
+Sonunda mağaranın girişine ulaştık.	Kuşun güzelliğinden büyülendim.	giriş-büyülenmek
+Mektubu açmadı bile.	4, 6, 8 ve 10 sayıları çift sayılardır.	bile-çift
+Umutsuzca iyi bir bahane bulmaya çalıştım.	Lütfen karışıklığı affedin.	bahane-affetmek
+Muhalefet partileri her zaman hükümetin sorunlarını kendi çıkarlarına kullanacaklardır.	Cesareti ve başarıları efsaneydi.	kullanmak-başarı
+Yapraklar ağaçlardan düşüyordu.	Güz dönemine bir ay kala okula döndü.	düşmek-güz
+Film hayranları onun çalışmalarına zaten aşina olacak.	Fanı çalıştırın, çok sıcak.	hayran-fan
+Bu oldukça yaygın bir sorundur.	Bana her zaman çok adil davrandı.	oldukça-adil
+Masamda bir yığın dosya beni bekliyordu.	Tırnaklarım için bir törpüye ihtiyacım var.	dosya-törpü
+Bu sabah kalktığımda kendimi iyi hissediyordum.	Çift sarı çizgiye park ettiğim için park cezası aldım.	iyi-ceza
+Cihazlarının bir modelini üretmek için bir mühendislik firmasıyla anlaştılar.	Bu şeftaliler hala sert.	firma-sert
+Kayıklar nehrin aşağısında yavaşça yüzüyordu.	Şirket 2014 yılında borsaya açıldı.	yüzmek-açılmak
+Sam yanaklarının kızardığını hissetti.	Uyuşturucuyu tuvalete attılar.	kızarmak-atmak
+Kazlar sonbaharda güneye uçarlar.	Pencerenin önünde bir sinek vızıldıyordu.	uçmak-sinek
+Çok komik bir adam olmasının yanı sıra nazik bir insandı.	İşin garip tarafı bundan sonra bir daha böyle bir şey yaşanmadı.	komik-garip
+Anneannemin mezarını ziyaret ettik.	Büyük bir tehlike altındaydık.	mezar-büyük
+Onun sadece dokuz yaşında olduğuna inanmak zor.	Elmas bilinen en sert mineraldir.	zor-sert
+Önyargılar kolayca zihinlere yerleşebilir.	Diş implantları eksik dişlerin yerini alabilir.	yerleşmek-implant
+Raporda tehlikeli atık ithalatının yasaklanması çağrısında bulunuluyor.	Bu ifadenin tam anlamını anlamak zordur.	ithalat-anlam
+Komşularımızla pek samimi değiliz.	Emekli olma niyetini zaten bize açıkça ifade-etti.	samimi-ifadetmek
+Küçük kasabada olup biten tüm entrikaları ve skandalları çok geçmeden öğrendim.	Bu fikir onun ilgisini-çekti.	entrika-ilgisiniçekmek
+Anlaşma onaylanmadığı için geçersiz ilan edildi.	Narin bir çocuktu ve ailesi ona engelli muamelesi yapmıştı.	geçersiz-engelli
+Çilek reçeli alabilir miyim?	Otobüs beş millik bir sıkışıklık nedeniyle gecikti.	reçel-sıkışıklık
+İşe yarayabilecek tek bir yöntem var.	Bu adil bir karardı.	tek-adil
+Her türlü şeyi satıyorlar.	Çok naziktin.	türlü-nazik
+İkinci turda liderliği ele geçirdi.	Kurşuna maruz kalmak herkese, özellikle de küçük çocuklara ve bebeklere zararlı olabilir.	liderlik-kurşun
+Yerel gazetemizin editörüne bir mektup yazdım.	Yunan alfabesinde kaç harf var?	mektup-harf
+Yalan-söylediği suratından anlaşılıyordu.	Kendinizi daha iyi hissedene kadar biraz orada uzanın.	yalan-uzanmak
+Beyaz boya ışığı yansıtır.	Açık mavi gözleri var.	ışık-açık
+Üç harika yerel grup canlı performans sergileyecek.	Teknolojik ilerlemenin norm haline geldiği bir dünyada yaşıyoruz.	canlı-yaşamak
+Yıldız işaretiyle işaretlenen öğeler atlanabilir.	Sınav kağıtlarını notlamaktan nefret ediyorum.	işaretlemek-notlamak
+Cumartesi günü Liverpool'a karşı önemli bir maç oynayacaklar.	Mağaranın içini görebilmeleri için bir kibrit yaktı.	maç-kibrit
+Küçük kardeşine bu kadar kaba davranma!	Açık sözlülük ile kabalık arasında bir orta yol bulması gerekiyordu.	kaba-orta
+Aklımdan türlü türlü düşünceler geçiyordu.	Ailen evden ayrılmanı umursuyor mu?	akıl-umursamak
+İki dakika sonra telefon çaldı.	Teknedeki mutfak küçücüktü.	dakika-küçücük
+Tırnaklarını yemeyi bırak!	Çiviyi duvara çaktı.	tırnak-çivi
+Son romanı Cornwall'da geçiyor.	Plan oldukça yeni görünüyordu.	roman-yeni
+Pek çok bölge insanı yeni havalimanının yapılmasına karşı-çıkıyor.	Tarayıcı metal bir nesne tespit etti.	karşıçıkmak-nesne
+Bu toplantının temel amacı planlarımız hakkında daha fazla bilgi vermektir.	Tamamen tarafsız kalmak zordur.	amaç-tarafsız
+Bu tablo çok tuhaf görünüyor.	1, 3, 5 ve 7 tek sayılardır.	tuhaf-tek
+Palmiye ağaçları her tarafta.	Kuşu avucunun içinde yavaşça tuttu.	palmiye-avuç
+Hastaneler her zamankinden daha fazla hastayı tedavi ediyor.	Küçük çocuklara karşı çok sabırlıdır.	hasta-sabırlı
+Bir kalem alayım.	Koyun ağılı var.	kalem-ağıl
+Bazı bilimsel keşifler, yıkım silahları yaratmak amacıyla çarpıtıldı.	O bir cinsel sapıktı.	çarpıtılmak-sapık
+Maçın ardından taraftarlar sahayı işgal etti.	Patlama onu şiddetle havaya fırlattı.	saha-fırlatmak
+Kilisenin içi sade ve basitti.	Milyonlarca bufalo Büyük Ovalar'da özgürce dolaşıyordu.	basit-ova
+Ojenizi ödünç alabilir miyim?	Annesi Polonyalı.	oje-polonyalı
+Bir milyon pound kazansan ne yapardın?	Şiddetli yağmur çatıyı dövdü.	pound-dövmek
+Mevcut durumdan memnun değilim.	Ona doğum günü hediyesi olarak ne alabilirim?	mevcut-hediye
+Oyun oldukça iyiydi.	O elbiseyle çok güzel görünüyorsun!	oldukça-güzel
+Sınıfım ortaçağ kentleri üzerine bir proje yapıyor.	Gelecek yıl için yüzde 4'lük bir büyüme öngörülüyor.	proje-öngörülmek
+Artık sadece özel öğrencilere ders veriyor.	Gözbebekleri genişlemişti.	öğrenci-gözbebeği
+Avcılar ormandaki avlarını gözden kaybetti.	Yerel kaya yamaçtan çıkarılmaktadır.	av-çıkarılmak
+Ankete katılanların neredeyse çeyreği istihdamda ayrımcılık yapıldığını bildirdi.	Paris'te bir öğrenci olarak Latin mahallesini seviyordu.	çeyrek-mahalle
+Şu korkunç gürültüyü yapmayı bırak!	Raketini toprağa vurdu.	gürültü-raket
+Yüksek sosyal statüye sahip insanlarla kaynaşmaya alışık değildi.	Bence durum oldukça vahim.	statü-vahim
+Adını hatırlamıyordu.	Her iki ülke de büyükelçilerini geri-çağırdı.	hatırlamak-geriçağırmak
+Harcamalarınızın kaydını tutmalısınız.	100 metrede dünya rekorunun sahibidir.	kayıt-rekor
+Bir sorun olduğunu kabul etmeyi reddetti.	Burada çöp toplama işlemi nasıl işliyor?	reddetmek-çöp
+Grant adına rezervasyonumuz var.	Onun bu işi yapma becerisi konusunda ciddi çekincelerim var.	rezervasyon-çekince
+Altı yıllık bir aradan sonra kariyerine devam-etti.	Özgeçmişinde hala göze çarpan bir boşluk var.	devametmek-özgeçmiş
+Ordu isyanı kısa sürede bastırdı.	Filmdeki tüm şiddet beni iğrendirdi.	isyan-iğrendirmek
+Cevabı doğru yaptın mı?	Sağ gözüm sol gözüme göre daha zayıf.	doğru-sağ
+Orta parmağına bir yüzük takıyordu.	Kilisenin çanları çaldı.	yüzük-çalmak
+Petrole ulaşmak için birkaç kat kayayı deldiler.	Tekne dalgaların arasında bir yandan diğer yana sallanıyordu.	kaya-sallanmak
+Top tepeden aşağı yuvarlandı.	Ruloları 18-20 dakika pişirin.	yuvarlanmak-rulo
+Evin önünde bir sıra ağaç var.	Adanın etrafında kürek-çektik.	sıra-kürekçekmek
+Sonunda tüm Mısır'ın hükümdarı oldu.	Geometri için bir cetvele ihtiyacım var.	hükümdar-cetvel
+Burada büyük çapta bir yolsuzluk vardı.	Canavar, büyük mor ve yeşil pulları olan bir ejderhaydı.	çap-pul
+Mektupta başkanın mührü vardı.	Yıllık fok avı Grönland açıklarındaki buz kütlelerinde yapılıyor.	mühür-fok
+Herhangi bir teklifin komitenin diğer iki üyesi tarafından desteklenmesi gerekir.	Her yıl iki öğretmen altı aylığına sanayiye görevlendiriliyor.	desteklenmek-görevlendirilmek
+Bölge, onu kullanan çokça turistin tehdidi altındadır.	Sadece çaresizlikten kabul ettim.	çokça-sadece
+Geriye dönüp baktığımda işaretleri görmeliydim.	Burayı imzalayın lütfen.	işaret-imzalamak
+Denizaltı patlamanın ardından battı.	Kirli tabaklarınızı lavaboda bırakmayın!	batmak-lavabo
+Kuşlar ilkbaharın sonlarında gelir ve sonbaharın başlarında tekrar ayrılırlar.	Kanepedeki yaylar gitti.	ilkbahar-yay
+Prens, savaş için para toplamak amacıyla tebaasından ağır vergiler almak zorunda kaldı.	Hangi konularda eğitim görüyorsunuz?	tebaa-konu
+Kot pantolonumu çitin üzerinde yırttım.	Yüzünden bir gözyaşı yuvarlandı.	yırtmak-gözyaşı

@@ -1,0 +1,110 @@
+A Northern accent.	In ‘today’ the accent is on the second syllable.	accent
+The time has come for action if these beautiful animals are to survive.	5 soldiers were killed in action.	action
+Is that your home address?	The policy fails to address the needs of people on low incomes.	address
+Ash from the volcano fell over a wide area.	Ash trees are located here.	ash
+She was laid up with severe back pain.	The man was refusing to go to the back of the queue.	back
+Tourists often disturb the delicate balance of nature on the island.	I have to check my bank balance.	balance
+He kicked the ball into the net.	She met him at the ball.	ball
+I don't have much money in the bank at the end of the month.	We strolled along the river bank.	bank
+The area is full of restaurants and bars.	I will buy a chocolate bar.	bar
+The bark peels off in summer.	The dog gave a loud bark.	bark
+He always plays his stereo with the bass turned right up.	Fresh sea bass is a great delicacy.	bass
+Give me the baseball bat.	Bats were flying in the sky.	bat
+There was a magnificent view across the bay.	It was a bay tree.	bay
+She bore the responsibility for most of the changes.	A little bear cub ran right across the road in front of us.	bear
+He bowed low to the assembled crowd.	He was armed with a bow and arrow.	bow
+My daughter has to wear a brace on her teeth.	They are bracing themselves for a long legal battle.	brace
+She is very artistic, the cake looks brilliant.	He's a brilliant young scientist.	brilliant
+Cairo is the capital of Egypt.	He had various ideas on how to raise capital for the project.	capital
+I think it was him, but I can't be certain.	Certain of those present were unwilling to discuss the matter further.	certain
+Her life changed completely when she won the lottery.	Don't forget your change!	change
+The bullet hit him in the chest.	There is the medicine chest.	chest
+I had no idea the beach was so close.	He closed the door firmly.	close
+I joined a local canoeing club.	He had the golf club.	club
+All employees have a written contract of employment.	Glass contracts as it cools.	contract
+She conversed with the Romanians in French.	Building new roads increases traffic and the converse is equally true, reducing the number and size of roads means less traffic.	converse
+Write today's date at the top of the page.	I am eating dates.	date
+The default is fifty lines.	The company is in default on the loan.	default
+Temperatures are expected to drop below 2 degrees.	She is pursuing a degree in biochemistry.	degree
+Somalia is mostly desert.	She was deserted by her husband.	desert
+Students can get discounted tickets.	We cannot discount the possibility of further strikes.	discount
+Drain and rinse the pasta.	We had to call in a plumber to unblock the drain.	drain
+It is in the top drawer.	He is an expert drawer and painter.	drawer
+Every afternoon they went to the park to feed the ducks.	We ducked down behind the wall so they wouldn't see us.	duck
+It is a movie that engages both the mind and the eye.	She was engaged to marry the heir to the Spanish throne.	engage
+At last we reached the entrance of the cave.	I was entranced by the bird’s beauty.	entrance
+He never even opened the letter.	4, 6, 8 and 10 are all even numbers.	even
+I tried desperately to think of a good excuse.	Please excuse the mess.	excuse
+The opposition parties will always exploit government problems to their own advantage.	His courage and exploits were legendary.	exploit
+The leaves were falling from the trees.	He returned to school a month into the fall semester.	fall
+Movie fans will be familiar with his work already.	Turn on the fan, it is too hot.	fan
+This is a fairly common problem.	He has always treated me very fairly.	fair
+A stack of files awaited me on my desk.	I need a file for my nails.	file
+I was feeling fine when I got up this morning.	I got a parking fine for parking on double yellow lines.	fine
+They hired an engineering firm to produce a model of their device.	These peaches are still firm.	firm
+The boats were floating gently down the river.	The company was floated on the stock market in 2014.	float
+Sam felt her cheeks flush red.	They flushed the drugs down the toilet.	flush
+Geese fly south in the fall.	A fly was buzzing against the window.	fly
+He was a very funny guy as well as a kind person.	The funny thing is it never happened again after that.	funny
+We visited Grandma's grave.	We were in grave danger.	grave
+It is hard to believe that she's only nine.	Diamonds are the hardest known mineral.	hard
+Prejudices can easily become implanted in the mind.	Dental implants can replace missing teeth.	implant
+The report calls for a ban on the import of hazardous waste.	It is difficult to understand the full import of this statement.	import
+We're not on intimate terms with our neighbours.	He has already intimated to us his intention to retire.	intimate
+I soon learnt about all the intrigues and scandals that went on in the little town.	The idea intrigued her.	intrigue
+The treaty was declared invalid because it had not been ratified.	She had been a delicate child and her parents had treated her as an invalid.	invalid
+Can I have the strawberry jam?	The bus was delayed in a five-mile jam.	jam
+There is just one method that might work.	It was a just decision.	just
+They sell all kinds of things.	You've been very kind.	kind
+She took the lead in the second lap.	Lead exposure can be harmful to everyone, especially young children and babies.	lead
+I wrote a letter to the editor of our local paper.	How many letters are in the Greek alphabet?	letter
+You could see from his face that he was lying.	Lie there for a bit until you feel better.	lie
+White paint reflects the light.	He has light blue eyes.	light
+Three great local bands will be playing live.	We live in a world where technological advance is the norm.	live
+Items marked with an asterisk can be omitted.	I hate marking exam papers.	mark
+They are playing an important match against Liverpool on Saturday.	He lit a match so they could see in the cave.	match
+Don't be so mean to your little brother!	He needed to find a mean between frankness and rudeness.	mean
+There were all kinds of thoughts running through my mind.	Do your parents mind you leaving home?	mind
+Two minutes later the phone rang.	The kitchen on the boat is minute.	minute
+Stop biting your nails!	He knocked the nail into the wall.	nail
+Her latest novel is set in Cornwall.	The plan sounded rather novel.	novel
+Many local people object to the building of the new airport.	The scanner detected a metal object.	object
+The main objective of this meeting is to give more information on our plans.	It is hard to remain completely objective.	objective
+That painting looks very odd.	1, 3, 5 and 7 are odd numbers.	odd
+Palm trees are all around.	He held the bird gently in the palm of his hand.	palm
+Hospitals are treating more patients than ever before.	 She is very patient with young children.	patient
+Let me grab a pen.	There is the sheep pen.	pen
+Some scientific discoveries have been perverted to create weapons of destruction.	He was a sexual pervert.	pervert
+After the game fans invaded the pitch.	The explosion pitched her violently into the air.	pitch
+The interior of the church was plain and simple.	Millions of buffalo used to roam freely across the Great Plains.	plain
+Can I borrow your nail polish?	His mother is Polish.	polish
+What would you do if you won a million pounds?	Heavy rain pounded on the roof.	pound
+I am not satisfied with the present situation.	What can I get him for a birthday present?	present
+The game was pretty good.	You look so pretty in that dress!	pretty
+My class is doing a project on medieval towns.	 A growth rate of 4 per cent is projected for next year.	project
+She now teaches only private pupils.	Her pupils were dilated.	pupil
+The hunters lost sight of their quarry in the forest.	The local rock is quarried from the hillside.	quarry
+Almost a quarter of respondents reported employment discrimination.	As a student in Paris, she loved the Latin quarter.	quarter
+Stop making that terrible racket!	He smashed his racket into the clay.	racket
+She was not used to mixing with people of high social rank.	I think the whole situation is pretty rank.	rank
+She could not recall his name.	Both countries recalled their ambassadors.	recall
+You should keep a record of your expenses.	She holds the world record for the 100 metres.	record
+She refused to accept that there was a problem.	How does refuse collection works here?	refuse
+We have a reservation in the name of Grant.	I have serious reservations about his ability to do the job.	reservation
+She resumed her career after an interval of six years.	There is still a glaring hole in his resume.	resume
+The army quickly crushed the revolt.	All the violence in the movie revolted me.	revolt
+Did you get the answer right?	My right eye is weaker than my left eye.	right
+He was wearing a ring on his middle finger.	The church bells rang.	ring
+They drilled through several layers of rock to reach the oil.	The boat rocked from side to side in the waves.	rock
+The ball rolled down the hill.	Bake the rolls for 18–20 minutes.	roll
+There is a row of trees in front of the house.	We rowed around the island.	row
+He eventually became ruler over all Egypt.	I need a ruler for geometry.	ruler
+Here was corruption on a grand scale.	The beast was a dragon, with great purple and green scales.	scale
+The letter bore the president's seal.	The annual seal hunt takes place on the pack ice off Greenland.	seal
+Any proposal must be seconded by two other members of the committee.	Each year two teachers are seconded to industry for six months.	second
+The area is under threat from the sheer number of tourists using it.	I only agreed out of sheer desperation.	sheer
+Looking back, I should have seen the signs.	Sign here, please.	sign
+The submarine sank after an explosion.	Do not just leave your dirty plates in the sink!	sink
+The birds arrive in late spring and leave again in early autumn.	The springs in the sofa have gone.	spring
+The prince had to tax his subjects heavily to raise money for the war.	Which subjects are you studying?	subject
+I tore my jeans on the fence.	A tear rolled down his face.	tear
